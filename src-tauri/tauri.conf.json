@@ -13,7 +13,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "padnote",
+        "title": "Padnote",
         "width": 800,
         "height": 600
       }
